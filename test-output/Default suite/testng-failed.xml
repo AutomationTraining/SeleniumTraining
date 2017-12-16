@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.testproject.SeleniumProject.SampleTest">
+      <class name="com.testproject.SeleniumProject.DemoRegistration">
         <methods>
-          <include name="Start"/>
+          <include name="PerformRegistration"/>
         </methods>
-      </class> <!-- com.testproject.SeleniumProject.SampleTest -->
+      </class> <!-- com.testproject.SeleniumProject.DemoRegistration -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
