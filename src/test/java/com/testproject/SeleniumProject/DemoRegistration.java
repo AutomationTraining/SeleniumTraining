@@ -26,7 +26,7 @@ public class DemoRegistration
 		registerLink.click();
 		
 		driver.findElement(By.id("gender-male")).click();
-		driver.findElement(By.id("FirstName")).sendKeys("Madhu");
+		driver.findElement(By.id("FirstName")).sendKeys("Madhu Test");
 		driver.findElement(By.name("LastName")).sendKeys("Java");
 		
 		WebElement ele = driver.findElement(By.name("DateOfBirthDay"));
