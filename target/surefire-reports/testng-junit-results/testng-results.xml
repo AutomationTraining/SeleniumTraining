@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[STep2]]>
+    </line>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="11" started-at="2017-12-16T16:46:04Z" finished-at="2017-12-16T16:46:04Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="11" started-at="2017-12-16T16:46:04Z" finished-at="2017-12-16T16:46:04Z">
+      <class name="com.testproject.SeleniumProject.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:testApp(com.testproject.SeleniumProject.AppTest)]" name="testApp" duration-ms="1" started-at="2017-12-16T10:46:04Z" finished-at="2017-12-16T10:46:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- com.testproject.SeleniumProject.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[STep2]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="881" started-at="2017-12-15T02:25:41Z" finished-at="2017-12-15T02:25:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="881" started-at="2017-12-15T02:25:41Z" finished-at="2017-12-15T02:25:42Z">
+      <class name="com.testproject.SeleniumProject.SampleTest">
+        <test-method status="PASS" signature="Start()[pri:0, instance:com.testproject.SeleniumProject.SampleTest@215be6bb]" name="Start" duration-ms="854" started-at="2017-12-14T20:25:41Z" finished-at="2017-12-14T20:25:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STep2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.testproject.SeleniumProject.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
